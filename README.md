@@ -1,4 +1,4 @@
-# csc133-hw3-cellBoard
+# 3-cellBoard
 
 ### Create and finish functions to generate a 7 x 9 board of 1s and 0s (cells), and code a function to count the number of 1s next to any given cell.
 
